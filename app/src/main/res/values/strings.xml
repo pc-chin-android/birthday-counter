@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Birthday Counter</string>
+    <string name="blank" />
+    <string name="shared_pref_key">com.pcchin.birthdaycounter.shared_pref_key</string>
+    <string name="birthday_now">Happy Birthday Shannon!</string>
+    <string name="tap_for_confetti">Tap anywhere for confetti</string>
+    <string name="confetti">Infinite Confetti</string>
+    <string name="timer">until your next birthday</string>
+    <string name="hrs_timer">%d days %d:%d:%d</string>
+    <string name="sel_bg">Select Background Color</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+
+</resources>
